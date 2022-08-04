@@ -19,10 +19,14 @@ body{
 	font-family: 'Ibarra Real Nova', serif;
 }
 a{
-	color: aqua;
+	color: rgb(0, 5, 5);
 }
 a:hover{
 	text-decoration: none;
+	color: aqua;
+}
+a:visited{
+	color: ghostwhite;
 }
 img{
 	width: 200px;
@@ -176,5 +180,6 @@ footer{
 	}
 	.edu-wrap{
 		color: #f0f7ee;
+		background-position: 0rem;
 	}
 }
