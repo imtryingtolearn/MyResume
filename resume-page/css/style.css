@@ -115,11 +115,12 @@ header{
 /*Education style
 -------------------------------*/
 .Education{
-	/*background: #f0f7ee;*/
+	
 	background-image:url(../images/giorgio-trovato-v_bri4iVuiM-unsplash.jpg);
 	background-size: cover;
 	background-position: right;
 	padding-right: 100px;
+	border-radius: 5px;
 }
 .Education p{
 	width: 60%;
@@ -161,9 +162,7 @@ footer{
 		display: grid;
 		grid-template-columns: repeat(3, 1fr);
 	}
-	/*.edu-wrap{
-		color: #f0f7ee;
-	}*/
+
 	
 
 }
